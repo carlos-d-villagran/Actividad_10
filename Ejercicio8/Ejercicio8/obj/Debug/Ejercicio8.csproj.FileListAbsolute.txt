@@ -1,0 +1,7 @@
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
