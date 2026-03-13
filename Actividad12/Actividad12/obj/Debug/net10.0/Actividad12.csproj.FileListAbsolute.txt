@@ -1,0 +1,15 @@
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.AssemblyInfo.cs
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.sourcelink.json
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\bin\Debug\net10.0\Actividad12.exe
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\bin\Debug\net10.0\Actividad12.deps.json
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\bin\Debug\net10.0\Actividad12.runtimeconfig.json
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\bin\Debug\net10.0\Actividad12.dll
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\bin\Debug\net10.0\Actividad12.pdb
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.dll
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\refint\Actividad12.dll
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.pdb
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\Actividad12.genruntimeconfig.cache
+C:\Users\ROG STRIX G15\OneDrive\Escritorio\actividad_10\Actividad_10\Actividad12\Actividad12\obj\Debug\net10.0\ref\Actividad12.dll
